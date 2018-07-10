@@ -4,6 +4,8 @@ Created on Tue Jul 10 12:47:51 2018
 
 @author: KrRish
 """
+#for downloading a dataset
+# https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/FuelConsumptionCo2.csv
 
 import matplotlib.pyplot as plt
 import pandas as pd
